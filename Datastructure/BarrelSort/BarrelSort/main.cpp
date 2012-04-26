@@ -4,6 +4,7 @@ for(strOutCout=0;)
 
 int main()
 {
+	//git test
 	char strin[100];
 	char strout[100];
 	gets(strin);
